@@ -3,34 +3,8 @@
   <DataRoot />
   <ModelName />
   <ModelDescription />
-  <DateModified>2012-10-18T10:48:37.6726986-04:00</DateModified>
+  <DateModified>2012-10-25T19:50:23.7740364-04:00</DateModified>
   <Threats>
-    <Threat>
-      <Name>Non-native species</Name>
-      <FriendlyName />
-      <ID>15</ID>
-      <Description>Fish species not native to the ecosystem. (Specifically, smallmouth bass, largemouth bass, brown trout, splake, and rainbow trout)
-
-DATA: MEFRO Efishing records</Description>
-      <Log>
-        <LogEntry>
-          <LogDate>0001-01-01T00:00:00</LogDate>
-          <User>Unknown</User>
-          <Description>Added threat</Description>
-        </LogEntry>
-        <LogEntry>
-          <LogDate>0001-01-01T00:00:00</LogDate>
-          <User>Jacques</User>
-          <Description>Changed description from Fish species not native to the ecosystem. (Specifically, smallmouth bass, largemouth bass, brown trout, splake, and rainbow trout) to Fish species not native to the ecosystem. (Specifically, smallmouth bass, largemouth bass, brown trout, splake, and rainbow trout)
-
-DATA: MEFRO Efishing records</Description>
-        </LogEntry>
-      </Log>
-      <Citations />
-      <MonitoringMetrics />
-      <GeoLayers />
-      <IntensityRasterPath />
-    </Threat>
     <Threat>
       <Name>Commercial Fishing</Name>
       <FriendlyName />
@@ -418,15 +392,24 @@ DATA: ?</Description>
       <IntensityRasterPath />
     </Threat>
     <Threat>
-      <Name>Disease</Name>
+      <Name>Non-native species</Name>
       <FriendlyName />
-      <ID>16</ID>
-      <Description />
+      <ID>15</ID>
+      <Description>Fish species not native to the ecosystem. (Specifically, smallmouth bass, largemouth bass, brown trout, splake, and rainbow trout)
+
+DATA: MEFRO Efishing records</Description>
       <Log>
         <LogEntry>
           <LogDate>0001-01-01T00:00:00</LogDate>
           <User>Unknown</User>
           <Description>Added threat</Description>
+        </LogEntry>
+        <LogEntry>
+          <LogDate>0001-01-01T00:00:00</LogDate>
+          <User>Jacques</User>
+          <Description>Changed description from Fish species not native to the ecosystem. (Specifically, smallmouth bass, largemouth bass, brown trout, splake, and rainbow trout) to Fish species not native to the ecosystem. (Specifically, smallmouth bass, largemouth bass, brown trout, splake, and rainbow trout)
+
+DATA: MEFRO Efishing records</Description>
         </LogEntry>
       </Log>
       <Citations />
@@ -456,6 +439,23 @@ DATA: ?</Description>
       <FriendlyName />
       <ID>18</ID>
       <Description>Any sort of emigration of aquaculture fish from their commercial environment.</Description>
+      <Log>
+        <LogEntry>
+          <LogDate>0001-01-01T00:00:00</LogDate>
+          <User>Unknown</User>
+          <Description>Added threat</Description>
+        </LogEntry>
+      </Log>
+      <Citations />
+      <MonitoringMetrics />
+      <GeoLayers />
+      <IntensityRasterPath />
+    </Threat>
+    <Threat>
+      <Name>Disease</Name>
+      <FriendlyName />
+      <ID>16</ID>
+      <Description />
       <Log>
         <LogEntry>
           <LogDate>0001-01-01T00:00:00</LogDate>
