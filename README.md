@@ -1,16 +1,11 @@
 ![](http://img.shields.io/github/tag/salmonhabitat/sdss.svg?style=flat)
 
-# Atlantic salmon Spatial Decision Support System
+__Atlantic salmon spatial decision support system__
 
-Overview
+The Atlantic salmon spatial decision support system _(ASDSS)_ identifies and prioritizes actions that are most likely to ameliorate threats to Atlantic salmon populations. Existing geospatial data is used to pinpoint recovery actions and locations that have the highest chance of success.
 
 ![](https://raw.githubusercontent.com/salmonhabitat/sdss/master/ats.jpg)
 
-## Background information
-- Threats & Stresses
-- Scope
-- Inspiration
-
 ## Changelog
 
-- _v0.0.1_ Initial import of relevant materials.
+- _v0.0.1_ Initial import.
