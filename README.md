@@ -1,4 +1,4 @@
-![](http://img.shields.io/github/tag/salmonhabitat/sdss.svg?style=flat)
+![](http://img.shields.io/badge/version-alpha-red.svg?style=flat)
 
 __Atlantic salmon spatial decision support system__
 
