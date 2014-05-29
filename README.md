@@ -33,16 +33,18 @@ Spatial data was gathered from a variety of sources, including the MEGIS Data Po
 
 > Estimates the contribution of each threat to stress the population.
 
-The University of Redlands had previously developed a [Model Manager](http://www.spatial.redlands.edu/dtro/modelmanager/) which we were able to use here. The application lets you describe the relationships between threats and stresses.
+The University of Redlands had previously developed a [Model Manager](http://www.spatial.redlands.edu/dtro/modelmanager/) which we were able to use here. The application provides a means of describe the relationships between threats and stresses. Using the spatial data we gathered, a network was developed, and weights assigned.
 
 ### 3. Relative Stress Model
 
 > Estimates the contribution of each stress to overall population change.
 
-Again, the Model Manager was used for this portion of the project.
+Again, the Model Manager was used for this portion of the project. Weights and relationships were assigned based off of previous work that is available in the documentation.
 
 ## Next steps
 
+The weights for the various threat/stress relationships were developed based on previous work and estimates. They do not reflect the priorities of the managers and invested parties that currently exist. Getting their feedback regarding weights is an important next step in developing this into an effective management tool.
+
 ## Changelog
 
-- _v0.0.1_ Initial import.
+- _v0.1.0_ Initial import.
