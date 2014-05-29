@@ -41,6 +41,12 @@ The University of Redlands had previously developed a [Model Manager](http://www
 
 Again, the Model Manager was used for this portion of the project. Weights and relationships were assigned based off of previous work that is available in the documentation.
 
+## Using the Model
+
+To get started, download and install the Model Manager available at [here](https://github.com/salmonhabitat/sdss/blob/master/install.exe). Once installed, import the [ATS Model](https://github.com/salmonhabitat/sdss/blob/master/model/model.tcm) and visualize the network that's been created.
+
+If you have any further questions, feel free to email [Jacques Tardie](mailto:hi@jacquestardie.org)!
+
 ## Next steps
 
 The weights for the various threat/stress relationships were developed based on previous work and estimates. They do not reflect the priorities of the managers and invested parties that currently exist. Getting their feedback regarding weights is an important next step in developing this into an effective management tool.
